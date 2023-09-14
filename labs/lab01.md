@@ -46,7 +46,7 @@ References:
 <details>
   <summary>github-actions-demo.yml</summary>
   
-```YAML
+```YAML NEW
 name: 01-1. GitHub Actions Demo
 on: 
   workflow_dispatch:
